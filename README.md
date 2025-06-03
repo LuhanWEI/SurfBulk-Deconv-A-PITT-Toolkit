@@ -2,9 +2,10 @@
 
 A single-file Python demo that reproduces the electrochemical/optical analysis workflow reported in Wei et al. “Deconvoluting Surface and Bulk Charge-Storage Processes in Redox-Active Oxides by Integrating Electrochemical and Optical Insights” J. Am. Chem. Soc. 146 (2024) 24167-24176 (https://pubs.acs.org/doi/10.1021/jacs.4c09261). 
 
-The script fits chrono-amperometric (CA) transients and operando ΔOD traces with one unified kinetic model, delivering the key parameters.
+The script fits chrono-amperometric (CA) transients and operando ΔOD traces with one unified kinetic model, delivering the key parameters. 
 
-Note. This code is built on Python 3.9.7 Version
+(Note. This script is built on Python 3.9.7 Version)
+
 ---
 
 ## Why do we need this?
