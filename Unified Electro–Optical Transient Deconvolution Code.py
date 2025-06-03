@@ -19,6 +19,8 @@
 #              Integrating Electrochemical and Optical Insights, 
 #              Journal of the American Chemical Society, 146 (2024), 24167–24176
 #              https://pubs.acs.org/doi/10.1021/jacs.4c09261
+#
+#  Python Version : 3.9.7
 # --------------------------------------------------------------------------- #
 """
 Quick Start
