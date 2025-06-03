@@ -46,7 +46,7 @@ Please create your environment with any 3.9-series interpreter before installing
 pyenv install 3.9.7
 pip install numpy pandas matplotlib scipy
 ```
-(Other Python versions have not been validated and may raise numerical/plotting issues.)
+(Other Python versions may not been validated and may raise numerical/plotting issues.)
 
 ---
 
