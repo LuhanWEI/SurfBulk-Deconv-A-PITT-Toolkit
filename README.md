@@ -42,9 +42,7 @@ The bundled datasets reproduce Figure 5a of the paper for birnessite δ‑MnO2 
 ## Installation
 
 ```bash
-git clone https://github.com/your‑org/ca‑opt‑deconvolution.git
-cd ca‑opt‑deconvolution
-python -m venv venv && source venv/bin/activate
+pyenv install 3.9.7
 pip install numpy pandas matplotlib scipy
 ```
 
