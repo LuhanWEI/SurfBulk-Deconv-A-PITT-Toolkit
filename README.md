@@ -99,11 +99,11 @@ Matches Table 1 of Wei *et al.*.
 ## Citation
 
 ```text
-@software{deconvolution_toolkit_2025,
-  author  = {Rolen and ChatGPT-o3},
+@software{SurfBulk-Deconv-PITT_toolkit_2025,
+  author  = {Luhan WEI and ChatGPT-o3},
   title   = {Current–Transient & Optical Deconvolution Toolkit},
   year    = {2025},
-  url     = {https://github.com/your‑org/ca‑opt‑deconvolution},
+  url     = {https://github.com/LuhanWEI/SurfBulk-Deconv},
   note    = {MIT License}
 }
 ```
