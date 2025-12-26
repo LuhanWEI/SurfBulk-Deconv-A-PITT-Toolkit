@@ -11,8 +11,8 @@
 #        2)  Accumulated charge components Q(t)
 #        3)  Optical ΔOD(t) components
 #
-#  Author     :  Luhan WEI (Solid State Ionics Lab @ Westlake University)
-#  Refactor   :  ChatGPT-o3  · 30-May-2025
+#  Author     :  Luhan WEI (Solid State Ionics Lab @ Westlake University) · 30-May-2025
+
 #  License    :  MIT  – see text at end of file
 #  Cite this  :  Luhan Wei, Yang Hu, Yiwei Huang, Ying Lu, Zihan Xu, Nian Zhang and Qiyang Lu*, 
 #              Deconvoluting Surface and Bulk Charge Storage Processes in Redox-Active Oxides by 
@@ -439,3 +439,4 @@ if __name__ == "__main__":
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 # --------------------------------------------------------------------------- #
+
